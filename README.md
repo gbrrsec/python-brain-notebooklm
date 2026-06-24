@@ -1,6 +1,6 @@
 # Python Brain NotebookLM
 
-![Tela Inicial do Projeto](imagens/tela_inicial.png)
+![Tela Inicial do Projeto](imagens/tela_inicial.png.png)
 
 ## Sobre o Projeto
 

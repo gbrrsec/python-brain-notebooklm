@@ -310,7 +310,7 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ## Tela Inicial do NotebookLM
 
-![Tela Inicial](imagens/tela_inicial.png)
+![Tela Inicial](imagens/tela_inicial.png.png)
 
 ---
 
@@ -318,33 +318,33 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ### Fonte 1
 
-![Fonte 1](imagens/fontes1.png)
+![Fonte 1](imagens/fontes1.png.png)
 
 ### Fonte 2
 
-![Fonte 2](imagens/fontes2.png)
+![Fonte 2](imagens/fontes2.png.png)
 
 ### Fonte 3
 
-![Fonte 3](imagens/fontes3.png)
+![Fonte 3](imagens/fontes3.png.png)
 
 ### Fonte 4
 
-![Fonte 4](imagens/fontes4.png)
+![Fonte 4](imagens/fontes4.png.png)
 
 ### Fonte 5
 
-![Fonte 5](imagens/fontes5.png)
+![Fonte 5](imagens/fontes5.png.png)
 
 ### Fonte 6
 
-![Fonte 6](imagens/fontes6.png)
+![Fonte 6](imagens/fontes6.png.png)
 
 ---
 
 ## Mapa Mental Gerado
 
-![Mapa Mental](imagens/mapa_mental.png)
+![Mapa Mental](imagens/mapa_mental.png.png)
 
 ---
 
@@ -352,11 +352,11 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ### Código com Erro
 
-![Código com Erro](imagens/prompt_erro_codigo.png)
+![Código com Erro](imagens/prompt_erro_codigo.png.png)
 
 ### Resposta Gerada pela IA
 
-![Resposta da IA](imagens/resposta_erro_codigo.png)
+![Resposta da IA](imagens/resposta_erro_codigo.png.png)
 
 ---
 
@@ -364,11 +364,11 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ### Teste de Conceitos e Plano de Estudos
 
-![Teste 1](imagens/teste_1-D-2.png)
+![Teste 1](imagens/teste_1-D-2.png.png)
 
 ### Teste de Exercícios e Entrevista Técnica
 
-![Teste 2](imagens/teste_2-D-2.png)
+![Teste 2](imagens/teste_2-D-2.png.png)
 
 ---
 

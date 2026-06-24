@@ -344,7 +344,7 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ## Mapa Mental Gerado
 
-![Mapa Mental](imagens/mapa_mental.png.png)
+![Mapa Mental](imagens/mapa_mental.png)
 
 ---
 
@@ -352,11 +352,11 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ### Código com Erro
 
-![Código com Erro](imagens/prompt_erro_codigo.png.png)
+![Código com Erro](imagens/prompt_erro_codigo.png)
 
 ### Resposta Gerada pela IA
 
-![Resposta da IA](imagens/resposta_erro_codigo.png.png)
+![Resposta da IA](imagens/resposta_erro_codigo.png)
 
 ---
 
@@ -364,11 +364,11 @@ Os materiais produzidos durante o projeto encontram-se na pasta:
 
 ### Teste de Conceitos e Plano de Estudos
 
-![Teste 1](imagens/teste_1-D-2.png.png)
+![Teste 1](imagens/teste_1-D-2.png)
 
 ### Teste de Exercícios e Entrevista Técnica
 
-![Teste 2](imagens/teste_2-D-2.png.png)
+![Teste 2](imagens/teste_2-D-2.png)
 
 ---
 
